@@ -1,0 +1,7 @@
+tmp
+migrations
+.idea
+venv
+__pycache__
+*.log
+**/__pycache__
