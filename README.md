@@ -35,7 +35,7 @@ ClassIS即Class Information Service，班级信息服务
 > > pip install -r requirements  
 
 > ④安装ClassIS
-> > pip install ClassIS
+> > pip install ClassIS*.tar.gz
 
 > ⑤参考 operations/env 配置系统环境  
 
