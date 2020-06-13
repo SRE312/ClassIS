@@ -23,11 +23,14 @@ ClassIS即Class Information Service，班级信息服务
 > 安装python (3.5.0以上版本) 虚拟环境  
 > 安装依赖到的包 
 > > pip install -r requirements  
+
 > 参考 operations/env 配置系统环境  
+
 > 实现数据库迁移  
 > > 创建迁移仓库  python manage.py db init  
 > > 创建迁移脚本  python manage.py db migrate  
 > > 将迁移应用到数据库  python manage.py db upgrade  
+
 > 通过uwsgi或直接通过manage.py启动程序  
 > operations/autosync.py在本地运行，用于将同步指定目录下的文件同步到服务器（可选），使用时需要修改autosync.py里的同步口令SYNC_TOKEN 
 ### 4. 配置Nginx并运行
