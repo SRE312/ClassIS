@@ -7,7 +7,7 @@ ClassIS即Class Information Service，班级信息服务
 * 提供班级通知、作业管理、班费管理、教材订购、随堂讲义、文件管理、在线交流等功能  
 * 界面见 [wiki](https://github.com/SRE312/ClassIS/wiki)
 ## 项目背景
-> 解决当前处理班级事务所面临的问题，为班级中信息的有效分发、获取、处理、共享等提供便利，提高效率。  
+> 解决当前处理班级事务所面临的问题，为班级中信息的有效分发、获取、处理、共享等提供便利。  
 ## 安装
 ### 1. 数据库
 > 安装MySQL和Redis  
@@ -24,6 +24,10 @@ ClassIS即Class Information Service，班级信息服务
 > 安装依赖到的包 
         pip install -r requirements  
 > 参考 operations/env 配置系统环境  
+> 实现数据库迁移
+        创建迁移仓库  python manage.py db init
+        创建迁移脚本  python manage.py db migrate
+        将迁移应用到数据库  python manage.py db upgrade
 > 通过uwsgi或直接通过manage.py启动程序  
 > operations/autosync.py在本地运行，用于将同步指定目录下的文件同步到服务器（可选），使用时需要修改autosync.py里的同步口令SYNC_TOKEN
 ### 4. 配置Nginx并运行
