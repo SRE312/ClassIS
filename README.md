@@ -16,7 +16,7 @@ ClassIS即Class Information Service，班级信息服务
 
 > ③创建数据库并授予用户权限  
 
-### 2. JavaScript程序编译及部署
+### 2. 前端程序编译及部署
 > ①安装npm (6.1.0以上版本)  
 
 > ②进入到frontend/  
@@ -25,7 +25,7 @@ ClassIS即Class Information Service，班级信息服务
 
 > ③将编译后目录frontend/dist/ 下的index.html和js文件放到服务器项目路径下
 
-### 3. Python部署 
+### 3. 后端程序部署 
 > ①安装python (3.5.0以上版本) 虚拟环境  
 
 > ②安装依赖到的包 
