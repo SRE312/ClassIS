@@ -1,4 +1,4 @@
-# ClassIS ![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/license.jpg)  
+# ClassIS ![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/license.jpg) ![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/flask.jpg) ![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/react.jpg) ![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/antd.jpg)  
 <img align="middle" src="https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/logo.png"></img>  
 ClassIS即Class Information Service，班级信息服务  
 * 采用前后端分离的开发模式  
