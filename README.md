@@ -25,22 +25,28 @@ ClassIS即Class Information Service，班级信息服务
 
 > ③将编译后目录frontend/dist/ 下的index.html和js文件放到服务器项目路径下
 
-### 3. 后端程序部署 
+### 3. 后端程序打包及部署 
 > ①安装python (3.5.0以上版本) 虚拟环境  
 
-> ②安装依赖到的包 
+> ②进入到backend/  
+> > 执行python setup.py sdist --formats=gztar 打包
+
+> ③到服务器项目路径下安装 ClassIS 依赖到的包 
 > > pip install -r requirements  
 
-> ③参考 operations/env 配置系统环境  
+> ④安装ClassIS
+> > pip install ClassIS
 
-> ④实现数据库迁移  
+> ⑤参考 operations/env 配置系统环境  
+
+> ⑥实现数据库迁移  
 > > 创建迁移仓库  python manage.py db init  
 > > 创建迁移脚本  python manage.py db migrate  
 > > 将迁移应用到数据库  python manage.py db upgrade  
 
-> ⑤通过uwsgi或直接通过manage.py启动程序  
+> ⑦通过uwsgi或直接通过manage.py启动程序  
 
-> ⑥operations/autosync.py在本地运行，用于将同步指定目录下的文件同步到服务器（可选），使用时需要修改autosync.py里的同步口令SYNC_TOKEN 
+> ⑧operations/autosync.py在本地运行，用于将同步指定目录下的文件同步到服务器（可选），使用时需要修改autosync.py里的同步口令SYNC_TOKEN 
 ### 4. 配置Nginx并运行
 ### 5. 完成
 ## 使用
