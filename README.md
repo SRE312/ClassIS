@@ -24,7 +24,7 @@ ClassIS即Class Information Service，班级信息服务
 > 安装依赖到的包 
 > > pip install -r requirements  
 > 参考 operations/env 配置系统环境  
-> 实现数据库迁移 
+> 实现数据库迁移  
 > > 创建迁移仓库  python manage.py db init  
 > > 创建迁移脚本  python manage.py db migrate  
 > > 将迁移应用到数据库  python manage.py db upgrade  
