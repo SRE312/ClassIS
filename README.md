@@ -1,4 +1,5 @@
-# ClassIS ![](https://img.shields.io/badge/License-LGPL-blue) 
+# ClassIS
+![](https://img.shields.io/badge/license-LGPL-blue)  
 <img align="middle" src="https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/logo.png"/>  
 ClassIS即Class Information Service，班级信息服务  
 * 采用前后端分离的开发模式  
