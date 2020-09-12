@@ -59,26 +59,43 @@ ClassIS即Class Information Service，班级信息服务
 
 ## 附录（界面）
 ### 0. 系统框图以及功能结构图
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629201818214.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/0.png)  
 
 ### 1. 班级通知
-![请添加图片描述](https://img-blog.csdnimg.cn/20200629201843957.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629201919961.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629201924477.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629201931306.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629201937279.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/1n1.png)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/1n2.png)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/1n3.png)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/1n4.png)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/1n5.png)  
 
 ### 2. 作业管理
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629201950127.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629201956726.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629202003271.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629202009101.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/2h1.png)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/2h2.png)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/2h3.png)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/2h4.png)  
 
 ### 3. 班费管理
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629202022917.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629202030956.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629202038178.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/3f1.png)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/3f2.png)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/3f3.png)  
 
 ### 4. 教材订购
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629202049992.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629202055813.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629202100930.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/2020062920210579.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629202111649.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/4t1.png)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/4t2.png)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/4t3.png)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/4t4.png)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/4t5.png)  
 
 ### 5. 随堂讲义
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629202121108.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629202129857.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629202134912.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/5n1.png)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/5n2.png)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/5n3.png)  
 
 ### 6. 文件管理
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629202144659.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629202149436.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/20200629202156425.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/2020062920220388.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/6f1.png)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/6f2.png)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/6f3.png)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/6f4.png)  
 
 ### 7. 在线交流
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2020062920221622.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1JhQm8xMjM=,size_16,color_FFFFFF,t_70)
+![](https://raw.githubusercontent.com/wiki/SRE312/ClassIS/images/7c.png)  
