@@ -52,7 +52,7 @@ ClassIS即Class Information Service，班级信息服务
 ## 使用
 使用浏览器访问网站即可使用
 ## 参与贡献方式
-[Open an issue](github.com/SRE312/ClassIS/issues/new) or submit PRs.
+[Open an issue](https://github.com/SRE312/ClassIS/issues) or submit PRs.
 ## 开源协议
 [LGPL](https://github.com/SRE312/ClassIS/blob/master/LICENSE) © SRE312
 
